@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "thread.h": "c",
+        "directory.h": "c",
+        "debug.h": "c",
+        "inttypes.h": "c"
+    },
+    "commentTranslate.targetLanguage": "zh-CN"
+}
